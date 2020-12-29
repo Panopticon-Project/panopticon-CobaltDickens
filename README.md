@@ -11,3 +11,5 @@ https://www.bleepingcomputer.com/news/security/iranian-hackers-create-credible-p
 https://cyware.com/news/silent-librarian-threat-group-targets-universities-in-the-us-via-phishing-13e0fba8/
 
 https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta407-silent-librarian
+
+http://www.circleid.com/posts/20201112-an-investigative-analysis-of-the-silent-librarian-iocs/
