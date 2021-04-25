@@ -13,3 +13,5 @@ https://cyware.com/news/silent-librarian-threat-group-targets-universities-in-th
 https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta407-silent-librarian
 
 http://www.circleid.com/posts/20201112-an-investigative-analysis-of-the-silent-librarian-iocs/
+
+https://go.recordedfuture.com/hubfs/reports/cta-2021-0421.pdf
